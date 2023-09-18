@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Lucas Hahnn GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashahnndev&show_icons=true&theme=transparent)
+]
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lucas-hahnn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-hahnn?trk=profile-badge">Lucas Hahnn</a></div>
               
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucashahnndev)](https://github.com/lucashahnndev/github-readme-stats)

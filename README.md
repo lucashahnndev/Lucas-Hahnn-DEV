@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Lucas Hahnn GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashahnndev&show_icons=true&theme=transparent)
-]
+
    
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucashahnndev)](https://github.com/lucashahnndev/github-readme-stats)
